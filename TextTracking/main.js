@@ -9,8 +9,8 @@ canvas.height = window.innerHeight;
 const fingerData = {
     8: [6, 'Aku'], // telunjuk
     12: [10, 'Fauzan'], // jari tengah
-    16: [14, ''], // jari manis
-    20: [18, ''], // kelingking
+    16: [14, 'Aku'], // jari manis
+    20: [18, 'Programmer'], // kelingking
     4: [3, 'Hai'] // ibu jari
 };
 
